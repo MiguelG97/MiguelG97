@@ -38,10 +38,11 @@
 </div>
 <br>
 <div align=center>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelG97&theme=iceberg&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelG97&theme=dracula&hide_border=false&layout=compact"
 alt="Top Languages" width="39%" />
 </div>
 
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api?username=MiguelG97&theme=algolia&show_icons=true)](https://github.com/MiguelG97)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MiguelG97&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/MiguelG97)
 
-
-<!---![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelG97&show_icons=true&theme=react&rank_icon=github&border_radius=10)-->
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelG97&show_icons=true&theme=react&rank_icon=github&border_radius=10)-->

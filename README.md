@@ -25,7 +25,7 @@
   <h3>Languages: </h3>
     <img src="https://skillicons.dev/icons?i=typescript,javascript,dart,cs,python" />
   <h3>Front-end stack: </h3>
-    <img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,flutter,threejs" />
+    <img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,flutter,threejs,redux" />
   <h3>Back-end stack: </h3>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws" />
 </div>

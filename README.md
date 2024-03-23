@@ -27,5 +27,5 @@
   <h3>Front-end stack: </h3>
     <img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,flutter,threejs,redux" />
   <h3>Back-end stack: </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,graphql" />
 </div>

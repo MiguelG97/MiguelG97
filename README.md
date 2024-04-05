@@ -9,7 +9,7 @@
  
  💬 I’m into **development of web and mobile applications** to support digital transformation 
 
-🌱 Currently learning **Docker, NGINX, Firebase/Supabase**
+🌱 Currently learning **Docker, Unity AR/VR, Firebase/Supabase**
 
  </div>
 <div align="center"> 

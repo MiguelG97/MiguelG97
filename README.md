@@ -27,7 +27,7 @@
  <h3>Mobile stack: </h3>
    <img src="https://skillicons.dev/icons?i=flutter,swift" />
   <h3>Front-end stack: </h3>
-    <img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,threejs,redux" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mui,tailwind,threejs" />
   <h3>Back-end stack: </h3>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,azure" />
    <h3>Others: </h3>

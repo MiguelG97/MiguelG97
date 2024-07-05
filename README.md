@@ -7,9 +7,9 @@
  
  :bulb:  I've a passion for continuously exploring new technologies
  
- 💬 I’m into **development of web and mobile applications** to support digital transformation 
+ 💬 I’m into **development of 3D Web and mobile applications** to support digital transformation 
 
-🌱 Currently learning **Docker, Unity AR/VR, Firebase/Supabase**
+🌱 Currently learning **Blender, Shaders with GLSL, SwiftUI**
 
  </div>
 <div align="center"> 

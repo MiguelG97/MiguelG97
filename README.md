@@ -29,7 +29,7 @@
   <h3>Front-end stack: </h3>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mui,tailwind,threejs,blender,vitest" />
   <h3>Back-end stack: </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,azure,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,azure,prisma,jest" />
    <h3>Others: </h3>
-  <img src="https://skillicons.dev/icons?i=jest,graphql,docker" />
+  <img src="https://skillicons.dev/icons?i=graphql,docker" />
 </div>

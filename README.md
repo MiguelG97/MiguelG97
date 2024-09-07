@@ -2,12 +2,12 @@
 
 
 
-<h2 align="center">A software engineer grown up from a civil engineer major</h2>
+<h2 align="center">Avid Software Engineer with +3 years of experience</h2>
 <div align="center">
  
- :bulb:  I've a passion for continuously exploring new technologies
+ :bulb:  I'm flexible, adaptable and passionate about exploring new technologies that aids to support digital transformation
  
- 💬 I’m into **development of 3D Web and mobile applications** to support digital transformation 
+ 💬 I’m into **development of web apps, mobile apps** & **integrating 3D immersive experiences***
 
 🌱 Currently learning **Blender, Shaders with GLSL, SwiftUI**
 
@@ -20,16 +20,16 @@
 
 <br/>
 
-<h2 align="center">Technical Skills</h2>
+<h2 align="center">My Tech Stack</h2>
 <div align="center">
-  <h3>Languages: </h3>
+  <h3 align="left">Programming languages:</h3>
     <img src="https://skillicons.dev/icons?i=typescript,javascript,dart,swift,cs,python" />
- <h3>Mobile stack: </h3>
+ <h3 align="left">Mobile:</h3>
    <img src="https://skillicons.dev/icons?i=flutter,swift" />
-  <h3>Front-end stack: </h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mui,tailwind,threejs,blender,vitest" />
-  <h3>Back-end stack: </h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,azure,prisma,jest" />
-   <h3>Others: </h3>
-  <img src="https://skillicons.dev/icons?i=graphql,docker" />
+  <h3 align="left">Front-end:</h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mui,tailwind,threejs,blender" />
+  <h3>Back-end:</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,azure,prisma,graphql" />
+   <h3>CD/CI:</h3>
+  <img src="https://skillicons.dev/icons?i=docker,jest,vitest" />
 </div>

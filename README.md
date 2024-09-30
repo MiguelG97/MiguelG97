@@ -7,7 +7,7 @@
  
  :bulb:  I'm flexible, adaptable and passionate about exploring new technologies that aids to support digital transformation
  
- 💬 I’m into **development of web apps, mobile apps** & **integrating 3D immersive experiences***
+ 💬 I’m into **development of web apps, mobile apps** & **integrating 3D immersive experiences**
 
 🌱 Currently learning **Blender, Shaders with GLSL, SwiftUI**
 
@@ -28,8 +28,8 @@
    <img src="https://skillicons.dev/icons?i=flutter,swift" />
   <h3 align="left">Front-end:</h3>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,mui,tailwind,threejs,blender" />
-  <h3>Back-end:</h3>
+  <h3 align="left">Back-end:</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mongodb,postgresql,aws,azure,prisma,graphql" />
-   <h3>CD/CI:</h3>
+   <h3 align="left">CD/CI:</h3>
   <img src="https://skillicons.dev/icons?i=docker,jest,vitest" />
 </div>

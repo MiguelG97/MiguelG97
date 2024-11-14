@@ -27,9 +27,9 @@
  <h3 align="left">Mobile:</h3>
    <img src="https://skillicons.dev/icons?i=flutter,swift" />
   <h3 align="left">Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,mui,tailwind,threejs,blender" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,mui,tailwind,threejs,blender,vitest" />
   <h3 align="left">Back-end:</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,net,firebase,mongodb,postgresql,aws,azure,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,net,firebase,mongodb,postgresql,prisma,graphql,jest" />
    <h3 align="left">CD/CI:</h3>
-  <img src="https://skillicons.dev/icons?i=docker,jest,vitest" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,github,ubuntu" />
 </div>

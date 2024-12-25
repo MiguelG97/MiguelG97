@@ -31,5 +31,5 @@
   <h3 align="left">Back-end:</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,net,firebase,mongodb,postgresql,prisma,graphql,jest" />
    <h3 align="left">CD/CI:</h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,github,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,github,nginx" />
 </div>

@@ -23,13 +23,13 @@
 <h2 align="center">My Tech Stack</h2>
 <div align="center">
   <h3 align="left">Programming languages:</h3>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,dart,swift,cs,python" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,python,java,dart,swift" />
  <h3 align="left">Mobile:</h3>
    <img src="https://skillicons.dev/icons?i=flutter,swift" />
   <h3 align="left">Front-end:</h3>
     <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,mui,tailwind,threejs,blender,vitest" />
   <h3 align="left">Back-end:</h3>
-  <img src="https://skillicons.dev/icons?i=net,nodejs,nestjs,mongodb,postgresql,firebase,prisma,graphql,jest" />
+  <img src="https://skillicons.dev/icons?i=net,spring,nodejs,nestjs,mongodb,postgresql,firebase,prisma,graphql,jest" />
    <h3 align="left">CD/CI:</h3>
-  <img src="https://skillicons.dev/icons?i=docker,k8s,rabbitmq,aws,githubactions,github,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,k8s,rabbitmq,kafka,aws,githubactions,github,nginx" />
 </div>

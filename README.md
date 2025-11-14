@@ -23,7 +23,7 @@
 <h2 align="center">My Tech Stack</h2>
 <div align="center">
   <h3 align="left">Programming languages:</h3>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,python,java,dart,swift" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,cmake,java,typescript,javascript,python,dart,swift" />
  <h3 align="left">Mobile:</h3>
    <img src="https://skillicons.dev/icons?i=flutter,swift" />
   <h3 align="left">Front-end:</h3>

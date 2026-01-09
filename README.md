@@ -2,14 +2,14 @@
 
 
 
-<h2 align="center">Avid Software Engineer with +4 years of experience</h2>
+<h2 align="center">Software Engineer   ·   BIM / AEC Automation</h2>
 <div align="center">
  
- :bulb:  I'm flexible, adaptable and passionate about exploring new technologies that aids to support digital transformation
+ :bulb:  Passionate about designing scalable, maintainable, and resilient systems while carefully evaluating technical trade-offs to deliver production-grade solutions
  
- 💬 I’m into **development of web apps, mobile apps** & **integrating 3D immersive experiences**
+ 💬 Focus areas: AEC Automation, Digital Twins, OpenSource Contributions, Distributed Systems, DevOps, and Cloud Infrastructure.
 
-🌱 Currently learning **Blender, Shaders with GLSL, SwiftUI**
+🌱 Currently learning MCP Servers, Geometry Engines, and LLM-driven automation pipelines.
 
  </div>
 <div align="center"> 

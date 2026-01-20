@@ -29,7 +29,7 @@
   <h3 align="left">Front-end:</h3>
     <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,mui,tailwind,threejs,blender,vitest" />
   <h3 align="left">Back-end:</h3>
-  <img src="https://skillicons.dev/icons?i=net,spring,nodejs,nestjs,mongodb,postgresql,firebase,prisma,graphql,jest" />
+  <img src="https://skillicons.dev/icons?i=net,spring,webassembly,nodejs,nestjs,mongodb,postgresql,firebase,prisma,graphql,jest" />
    <h3 align="left">CD/CI:</h3>
-  <img src="https://skillicons.dev/icons?i=docker,k8s,terraform,rabbitmq,kafka,aws,githubactions,github,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,k8s,terraform,jenkins,rabbitmq,kafka,aws,githubactions,github,nginx" />
 </div>

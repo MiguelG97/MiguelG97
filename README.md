@@ -5,9 +5,9 @@
 <h2 align="center">Software Engineer   ·   BIM / AEC Automation</h2>
 <div align="center">
  
- :bulb:  Passionate about designing scalable, maintainable, and resilient systems while carefully evaluating technical trade-offs to deliver production-grade solutions
+ :bulb:  Passionate about building high-quality, user-focused products by combining agile methodologies, AI, and modern technologies, always balancing technical robustness with usability
  
- 💬 Focus areas: AEC Automation, Digital Twins, OpenSource Contributions, Distributed Systems, DevOps, and Cloud Infrastructure.
+ 💬 Focus areas: AEC workflow automation, Digital Twins, Opensource contributions, AI-assisted workflows, 3D CAD automation, AR/VR, geometry engines, distributed systems, DevOps, and cloud infrastructure.
 
 🌱 Currently learning MCP Servers, Geometry Engines, and LLM-driven automation pipelines.
 
@@ -19,6 +19,7 @@
 </div>
 
 <br/>
+
 
 <h2 align="center">My Tech Stack</h2>
 <div align="center">
